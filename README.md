@@ -4,7 +4,7 @@
 [![Code Coverage](https://img.shields.io/codeclimate/coverage/krmbzds/tate.svg)](https://codeclimate.com/github/krmbzds/tate/test_coverage)
 [![Maintainability](https://img.shields.io/codeclimate/maintainability/krmbzds/tate.svg)](https://codeclimate.com/github/krmbzds/tate/maintainability)
 [![Downloaded](https://img.shields.io/gem/dt/tate.svg)](https://rubygems.org/gems/tate)
-[![Gem Version](https://img.shields.io/gem/v/tate.svg)](https://rubygems.org/gems/tate)
+[![Gem Version](https://img.shields.io/gem/v/tate.svg)](https://rubygems.org/gems/tate) [![GuardRails badge](https://badges.production.guardrails.io/shtakai/tate.svg)](https://www.guardrails.io)
 
 **Tate** converts accented characters and transliterates non-latin scripts to their closest ASCII equivalent.
 
